@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm kit</h1>
+<h3 align="center">Un développeur passionné JavaScript</h3>
 
-<!--
-**kitbot14/kitbot14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitbot14&label=Profile%20views&color=0e75b6&style=flat" alt="kitbot14" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 Je travaille actuellement sur un bot qui sera bientot sortie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 J'apprends actuellement **Le langage js py css html**
+
+- 💬 Demandez-moi à propos de **react**
+
+- 📫 Comment me joindre **kityt1406@gmail.com**
+
+- ⚡ Fait amusant **La vie c'est pas le biscuit**
