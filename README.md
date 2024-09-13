@@ -11,4 +11,4 @@
 
 - 📫 Comment me joindre **kityt1406@gmail.com**
 
-- ⚡ Fait amusant **La vie c'est pas le biscuit**
+- ⚡ Fait amusant **La vie c'est pas du chokapic**
