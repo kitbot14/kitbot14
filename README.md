@@ -1,13 +1,11 @@
-<h1 align="center">kitbot14</h1>
-<a href="https://github.com/kitbot14"></a>
 
-<p align="center">
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=kitbot14&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
-  <img height="25" src="https://img.shields.io/github/followers/kitbot14?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/> 
-  <img height="25" src="https://img.shields.io/github/stars/kitbot14?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/> 
-</p> 
-<br>
+## 🌐 My Discord:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1248774218720743475)](https://discord.com/users/1248774218720743475)
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kitbot14&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kitbot14&theme=slateorange&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitbot14&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=kitbot14&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=kitbot14&icon=0&color=0)](https://visitcount.itsvg.in)
