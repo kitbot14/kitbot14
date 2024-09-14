@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm kit</h1>
-<h3 align="center">Un développeur passionné JavaScript</h3>
+<h1 align="center">kitbot14</h1>
+<a href="https://github.com/kitbot14"></a>
 
-# <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitbot14&label=Profile%20views&color=b60e0e&style=flat" alt="kitbot14" /> </p>
+<p align="center">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=kitbot14&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/kitbot14?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/> 
+  <img height="25" src="https://img.shields.io/github/stars/kitbot14?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/> 
+</p> 
+<br>
 
-- 🔭 Je travaille actuellement sur un bot qui sera bientot sortie
-
-- 🌱 J'apprends actuellement **Le langage js py css html**
-
-- 💬 Demandez-moi à propos de **react**
-
-- 📫 Comment me joindre **kityt1406@gmail.com**
-
-- ⚡ Fait amusant **La vie c'est pas du chokapic** 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=kitbot14&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
