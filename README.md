@@ -8,4 +8,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kitbot14&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitbot14&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=kitbot14&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kit20bot&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
