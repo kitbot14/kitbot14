@@ -21,14 +21,6 @@ const config = {
     NinjaModStatus: "https://tracker.ninjamod.fr",
     NinjaModHosting: "https://host.ninjamod.fr",
     NinjaModPanelHosting: "https://panel.ninjamod.fr"
-  },
-
-  Bot: {
-    NinjaModShop: "https://ninjamod.fr",
-    NinjaModApi: "https://api.ninjamod.fr",
-    NinjaModRedirections: "https://link.ninjamod.fr",
-    NinjaModForum: "https://tracker.ninjamod.fr",
-    NinjaModStatus: "https://tracker.ninjamod.fr"
   }
 };
 
