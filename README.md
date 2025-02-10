@@ -1,6 +1,5 @@
 
-# config.json
-javascript
+config.json
 ```
 
 "Discord"[
