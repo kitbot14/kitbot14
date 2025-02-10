@@ -1,11 +1,32 @@
 
-## 🌐 My Discord:
-# ```2.0kit```
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kitbot14&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kitbot14&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitbot14&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🌐Mes Info
+```
+"Discord"[
+"tag": "2.0kit",
+"id": "1248774218720743475"
+],
 
-[![](https://visitcount.itsvg.in/api?id=kit20bot&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+"Discord-Server"[
+"NinjaMod": "https://discord.gg/ninjamod",
+"NinjaMod-Hosting": "https://discord.gg/fH7w9GBW2d"
+],
+
+"Site"[
+"NinjaMod-Shop": "https://ninjamod.fr",
+"NinjaMod-Api": "https://api.ninjamod.fr",
+"NinjaMod-Redirections": "https://link.ninjamod.fr",
+"NinjaMod-Forum": "https://tracker.ninjamod.fr",
+"NinjaMod-Status": "https://tracker.ninjamod.fr",
+"NinjaMod-Hosting": "https://host.ninjamod.fr",
+"NinjaMod-Panel-Hosting": "https://panel.ninjamod.fr"
+],
+
+"Bot"[
+"NinjaMod-Shop": "https://ninjamod.fr",
+"NinjaMod-Api": "https://api.ninjamod.fr",
+"NinjaMod-Redirections": "https://link.ninjamod.fr",
+"NinjaMod-Forum": "https://tracker.ninjamod.fr",
+"NinjaMod-Status": "https://tracker.ninjamod.fr"
+]
+
+```
