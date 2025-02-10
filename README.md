@@ -1,7 +1,7 @@
 
 # config.json
-```
 javascript
+```
 
 "Discord"[
 "tag": "2.0kit",
