@@ -1,5 +1,5 @@
 
-# 🌐Mes Info
+# config.json
 ```
 "Discord"[
 "tag": "2.0kit",
