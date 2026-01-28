@@ -14,11 +14,11 @@ const config = {
   },
 
   Site: {
-    RedDom-vitrine: "https://red-dom.fr",
-    RedDom-selfbot: "https://red-dom.fr/commands",
-    RedDom-profile: "https://reddom.fun",
-    RedDom-paste: "https://paste.red-dom.fr",
-    RedDom-link: "https://link.red-dom.fr"
+    RedDomvitrine: "https://red-dom.fr",
+    RedDomselfbot: "https://red-dom.fr/commands",
+    RedDomprofile: "https://reddom.fun",
+    RedDompaste: "https://paste.red-dom.fr",
+    RedDomlink: "https://link.red-dom.fr"
   }
 };
 
