@@ -14,13 +14,11 @@ const config = {
   },
 
   Site: {
-    NinjaModShop: "https://ninjamod.fr",
-    NinjaModApi: "https://api.ninjamod.fr",
-    NinjaModRedirections: "https://link.ninjamod.fr",
-    NinjaModForum: "https://tracker.ninjamod.fr",
-    NinjaModStatus: "https://tracker.ninjamod.fr",
-    NinjaModHosting: "https://host.ninjamod.fr",
-    NinjaModPanelHosting: "https://panel.ninjamod.fr"
+    RedDom-vitrine: "https://red-dom.fr",
+    RedDom-selfbot: "https://red-dom.fr/commands",
+    RedDom-profile: "https://reddom.fun",
+    RedDom-paste: "https://paste.red-dom.fr",
+    RedDom-link: "https://link.red-dom.fr"
   }
 };
 
